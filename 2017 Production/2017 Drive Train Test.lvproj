@@ -118,7 +118,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Drive Train Log.vi" Type="VI" URL="../Drive Train Log.vi"/>
-			<Item Name="Drive_Train_Control.vi" Type="VI" URL="../../2017 Production Dashboard/Drive_Train_Control.vi"/>
+			<Item Name="Drive_Train_Control.vi" Type="VI" URL="../Drive_Train_Control.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="MAX_CameraSend Images To PC Loop.vi" Type="VI" URL="../MAX_CameraSend Images To PC Loop.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
